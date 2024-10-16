@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "shriyase.github.io"
+  title: "Shriya Ejanthker"
   navbar:
     left:
       - href: index.qmd

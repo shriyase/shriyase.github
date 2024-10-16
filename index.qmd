@@ -1,7 +1,27 @@
 ---
-title: "shriyase.github.io"
+title: "Shriya Ejanthker"
+image: media/headshot.jpeg
+2toc: false
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 17em
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/shriya-ejanthker/
+    - text: GitHub
+      href: https://github.com/shriyase
+    - text: Medium
+      href: https://medium.com/@shriyaejanthker
+    - text: Email
+      href: mailto:shriyase@umich.edu
 ---
 
-This is a Quarto website.
+Hi, I'm a Data Science Master's student at the University of Michigan. I completed my Bachelor's degree in Mechanical Engineering from PES University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Professionally, my interests are broad, and lie in the applications of Machine Learning, especially in Generative AI and broadly Natural Language Processing. 
+Over the summer I worked at Wellfyn, where I worked on developing an LLM-based chatbot to serve as a financial investment advisor. In the winter I developed an assistant to intuitively schedule tasks onto a user's calendar and help manage it. 
+I like to give back to the community and am currently volunteering as a data analyst with the Detroit Riverfront Conservancy.
+
+Aside from that, I enjoy writing, singing and surfing. I spend a lot of time reading random bits of information online, and I even won at a nationally televised quiz conducted by the Bill and Melinda Gates Foundation.
+I'm also part of the kayaking club and the powerlifting club here at UofM!
