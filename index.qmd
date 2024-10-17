@@ -1,11 +1,11 @@
 ---
 title: "Shriya Ejanthker"
-image: media/headshot.jpeg
+image: media/headshot2.jpeg
 2toc: false
 about: 
-    template: jolla
+    template: trestles
     image-shape: round
-    image-width: 17em
+    image-width: 15em
     links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/shriya-ejanthker/
@@ -14,7 +14,7 @@ about:
     - text: Medium
       href: https://medium.com/@shriyaejanthker
     - text: Email
-      href: mailto:shriyase@umich.edu
+      href: mailto::shriyase@umich.edu
 ---
 
 Hi, I'm a Data Science Master's student at the University of Michigan. I completed my Bachelor's degree in Mechanical Engineering from PES University.
