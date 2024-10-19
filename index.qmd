@@ -1,6 +1,7 @@
 ---
 title: "Shriya Ejanthker"
 image: media/headshot2.jpeg
+page-layout: full
 2toc: false
 about: 
     template: trestles
@@ -16,7 +17,7 @@ about:
     - icon: medium
       text: Medium
       href: https://medium.com/@shriyaejanthker
-    - icon: mail
+    - icon: email
       text: Email
       href: mailto:shriyase@umich.edu
 ---

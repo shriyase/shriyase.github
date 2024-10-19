@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Shriya Ejanthker"
   navbar:
+    title: Shriya Ejanthker
     search: true
     left:
       - href: index.qmd
