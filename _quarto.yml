@@ -5,10 +5,12 @@ project:
 website:
   title: "Shriya Ejanthker"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:cf4c750d-961f-3a7b-bb0b-0d537d983da8
+        text: Resume
 
 format:
   html:

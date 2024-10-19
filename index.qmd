@@ -7,14 +7,18 @@ about:
     image-shape: round
     image-width: 10em
     links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn 
       href: https://www.linkedin.com/in/shriya-ejanthker/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/shriyase
-    - text: Medium
+    - icon: medium
+      text: Medium
       href: https://medium.com/@shriyaejanthker
-    - text: Email
-      href: mailto::shriyase@umich.edu
+    - icon: mail
+      text: Email
+      href: mailto:shriyase@umich.edu
 ---
 
 Hi, I'm a Data Science Master's student at the University of Michigan. I completed my Bachelor's degree in Mechanical Engineering from PES University.
